@@ -1,0 +1,2 @@
+# Predicting-Risk-of-Smoking-Alcohol-and-Drug-Use-Among-Adolescents
+This project focuses on understanding &amp; predicting substance use behaviors-smoking, alcohol, and drug use among adolescents in England. By combining demographic data (age, gender), school information (type, free school meals), and local socioeconomic factors (deprivation scores), the project explores the key factors that influence these behaviors.
